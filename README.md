@@ -3,7 +3,7 @@
 
 ## Introduction
 
-As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
+As a job seeker in Data Industry, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
 
 ### Questions to Analyze
 
@@ -50,22 +50,24 @@ It includes detailed information on:
 - Then, I transformed each query by changing column types, removing unnecessary columns, cleaning text to eliminate specific words, and trimming excess whitespace.
     - 📊 data_jobs_all
 
-        ![2_Project_Analysis_Screenshot1.png](/0_Resources/Images/2_Project_Analysis_Screenshot1.png)
+        ![2_Project_Analysis_Screenshot1](https://github.com/user-attachments/assets/fbbfb8e9-a4d2-401a-ba60-f81cbbb07a8b)
 
+     
     - 🛠️ data_job_skills
 
-        ![2_Project_Analysis_Screenshot2.png](/0_Resources/Images/2_Project_Analysis_Screenshot2.png)
+        ![2_Project_Analysis_Screenshot2](https://github.com/user-attachments/assets/6aa96541-e1ef-4082-8272-c8b35c5f2e49)
 
 #### 🔗 Load
 
 - Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
     - 📊 data_jobs_all
 
-        ![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Screenshot3.png)
+        ![2_Project_Analysis_Screenshot3](https://github.com/user-attachments/assets/4ac67ec6-9159-4373-b033-9918e629aa26)
+       
 
     - 🛠️ data_job_skills
 
-        ![2_Project_Analysis_Screenshot4.png](/0_Resources/Images/2_Project_Analysis_Screenshot4.png)
+        ![2_Project_Analysis_Screenshot4](https://github.com/user-attachments/assets/4d45a1f3-6d9d-47ef-afa2-983c9a6570b3)
 
 ### 📊 Analysis
 
@@ -74,7 +76,8 @@ It includes detailed information on:
 - 📈 There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like Senior Data Engineer and Data Scientist.
 - 💼 Roles that require fewer skills, like Business Analyst, tend to offer lower salaries, suggesting that more specialized skill sets command higher market value.
 
-    ![2_Project_Analysis_Chart1.png](/0_Resources/Images/2_Project_Analysis_Chart1.png)
+    ![2_Project_Analysis_Chart1](https://github.com/user-attachments/assets/7595ebba-082f-455c-8c9e-2ff22eb7884e)
+
 
 #### 🤔 So What
 
