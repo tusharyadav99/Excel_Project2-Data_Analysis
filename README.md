@@ -181,3 +181,16 @@ It includes detailed information on:
 
 As a data enthusiast and a job seeker, I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset I've curated from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies. 
 
+---
+
+## 📬 Contact
+
+For any questions, suggestions, or feedback, feel free to reach out:
+
+- **Email**: [Tushar Yadav](mailto:tyadav940@gmail.com)
+- **GitHub**: [tusharyadav99](https://github.com/tusharyadav99/)
+- **LinkedIn**: [Tushar Yadav](https://www.linkedin.com/in/tushar-yadav-865237183/)
+
+I would love to hear from you!
+
+---
